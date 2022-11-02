@@ -3,10 +3,10 @@ body {
 }
 
 h1 {
-  color: #878787;
+  color: black;
   font-size: 24px;
   font-weight: 100;
-  margin: 0;
+  margin: 20px;
   line-height: 28px;
 }
 
